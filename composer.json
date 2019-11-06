@@ -1,0 +1,19 @@
+{
+    "name": "thabiso/alecaddd-plugin",
+    "description": "Awesome starter plugin example",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Thabiso Pheko",
+            "email": "tabs150@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Inc\\": "./inc"
+        }
+    }
+}
